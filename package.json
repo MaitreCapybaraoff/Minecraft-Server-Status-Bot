@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/MaitreCapybaraoff/Minecraft-Server-Status-Bot/issues"
   },
-  "homepage": "https://github.com/MaitreCapybaraoff/Minecraft-Server-Status-Bot",
+  "homepage": "https://github.com/MaitreCapybaraoff/Minecraft-Server-Status-Bot#readme",
   "dependencies": {
     "@discordjs/builders": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
