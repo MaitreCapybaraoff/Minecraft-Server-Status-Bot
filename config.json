@@ -1,0 +1,43 @@
+{
+    "displayip": "En construction !",
+    "servername": "ShadowLands PvP",
+    "youricon": "le liens vers l'icone",
+    "website": "vôtre site web",
+    "UpdateIntervalEmbed": "120s",
+    "UpdateIntervalAPIChecking": "120s",
+    "guildid": "1338420635520467106",
+    "maintenancemode": {
+        "colour": "#FFA500",
+        "description": "Bot en Maintenance",
+        "fieldName": "EN MAINTENANCE",
+        "fieldValue": "MAINTENANCE EN COURS",
+        "footer": "Ce message est mis à jour toutes les 2 Minutes ! Certaines informations peuvent être incorrectes pour des raisons de mise en cache !"
+    },
+    "online": {
+        "colour": "#00FF00",
+        "description": "Serveur en ligne",
+        "footer": "Ce message est mis à jour toutes les 2 Minutes ! Certaines informations peuvent être incorrectes pour des raisons de mise en cache !"
+    },
+    "offline": {
+        "colour": "#FF0000",
+        "description": "Serveur Offline",
+        "footer": "Ce message est mis à jour toutes les 2 Minutes ! Certaines informations peuvent être incorrectes pour des raisons de mise en cache !"
+    }, 
+    "customStatus": {
+        "online": "ShadowLandsPvP avec {online/max}!",
+        "onlineType": "PLAYING",
+        "onlineStatus": "online",
+        "maintenance": "les Developeurs s'en occupe!",
+        "maintenanceType": "WATCHING",
+        "maintenanceStatus": "idle",
+        "offline": "serveur Offline",
+        "offlineType": "WATCHING",
+        "offlineStatus": "dnd"
+    },
+    "commands": {
+        "enableSlashCommands": true,
+        "enableMessageCommands": true,
+        "prefix": "!",
+        "requiredPermission": "MANAGE_GUILD"
+    }
+}
