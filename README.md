@@ -10,7 +10,6 @@
 ### ✨ Fonctionnalités
 - 🔍 Vérification du statut d'un serveur Minecraft (en ligne/hors ligne).
 - 📊 Affichage du nombre de joueurs connectés.
-- 🎨 Personnalisation des messages du bot.
 - 🔄 Mise à jour automatique du statut.
 
 ## 🚀 Installation
